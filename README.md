@@ -356,6 +356,7 @@ This collection would not be possible without the incredible work of the Claude 
 - **[ibelick/ui-skills](https://github.com/ibelick/ui-skills)**: UI-polish skills for improving interfaces built by agents (MIT).
 - **[jackjin1997/ClawForge](https://github.com/jackjin1997/ClawForge)**: Resource hub of skills, MCP servers, and agent tooling for OpenClaw.
 - **[jthack/ffuf_claude_skill](https://github.com/jthack/ffuf_claude_skill)**: FFUF skill for web fuzzing workflows in Claude.
+- **[kubestellar/console](https://github.com/kubestellar/console)**: KubeStellar Console multi-cluster Kubernetes dashboard with `kc-agent` MCP integration, AI-assisted operations, and built-in agent skills.
 - **[MetcalfSolutions/Satori](https://github.com/MetcalfSolutions/Satori)**: Clinically informed wisdom companion blending psychology frameworks and wisdom traditions into a structured reflective partner.
 - **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)**: Context-engineering, multi-agent, and production agent-system skill collection (MIT).
 - **[robzolkos/skill-rails-upgrade](https://github.com/robzolkos/skill-rails-upgrade)**: Rails upgrade skill for agent-assisted migrations.
@@ -575,7 +576,6 @@ We officially thank the following contributors for their help in making this rep
 - [@Evozim](https://github.com/Evozim)
 - [@Imasaikiran](https://github.com/Imasaikiran)
 - [@justmiroslav](https://github.com/justmiroslav)
-- [@1bcMax](https://github.com/1bcMax)
 - [@xiaolai](https://github.com/xiaolai)
 - [@avij1109](https://github.com/avij1109)
 - [@mark1ian](https://github.com/mark1ian)
